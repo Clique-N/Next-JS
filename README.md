@@ -2,7 +2,7 @@
 Projeto do curso Next-JS da EBAC
 
  - Como acesar: 
-  POR ZIP:
+  - POR ZIP:
     - Faça o download do ZIP.
     - Extrair a pasta no local de preferencia.
     - Abrir no VS Code.
@@ -12,7 +12,7 @@ Projeto do curso Next-JS da EBAC
         -  npm run dev
     -  Após isso, só acessar via localhost.
   
-  POR GIT DIRETO NO VSCODE: 
+  - POR GIT DIRETO NO VSCODE: 
     - Abrir o terminal no VSCode e clonar:
       - git clone https://github.com/Clique-N/Next-JS.git
     - Entrar na pasta (ainda no terminal):
