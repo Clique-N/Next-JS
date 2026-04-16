@@ -1,0 +1,54 @@
+.deals {
+    background-color: #f3f2f2;
+    border-radius: 16px;
+    overflow: hidden;
+    width: 280px;
+    box-shadow: 0 6px 16px rgb(0, 0, 0, 0.15);
+    transition: transform 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.deals:hover {
+    transform: translateY(-8px) scale(1.02); 
+    background-color: #b7e6fc77; 
+}
+
+.deals__info {
+    padding: 16px;
+}
+
+.deals__img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.deals__title {
+    font-size: 1.1rem;
+    color: black;
+    margin: 0 0 0.5rem 0;
+    font-weight: bold;
+}
+
+.deals__description {
+    font-size: 0.9rem;
+    color: gray;
+    margin: 0 0 0.5rem 0;
+}
+
+.deals__oldPrice {
+    font-size: 0.9rem;
+    color: rgb(253, 0, 0);    
+    font-weight: bold; 
+    text-decoration: line-through;
+}
+
+.deals__newPrice {
+    font-size: 1rem;
+    color: black;    
+    font-weight: bold; 
+}
+
