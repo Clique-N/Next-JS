@@ -1,7 +1,7 @@
 # Next-JS
 Projeto do curso Next-JS da EBAC
 
- - Como aceesar: 
+ - Como acesar: 
   POR ZIP:
     - Faça o download do ZIP.
     - Extrair a pasta no local de preferencia.
